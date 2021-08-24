@@ -1,0 +1,14 @@
+# gitignore
+# このファイルに記載したファイルはGitから無視される
+
+# exeファイルを無視する
+*.exe
+
+# binフォルダは要らない
+bin/
+
+# Gitチートコードは管理しない
+Git.pdf
+
+# hoge.txtは無視する
+hoge.txt
